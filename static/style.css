@@ -254,3 +254,9 @@ background-color: #fff;
     background: #fff;
     border-radius: 50%;
 }
+
+/*Portifólio*/
+
+.carousel-indicators{
+    display: none;
+}
