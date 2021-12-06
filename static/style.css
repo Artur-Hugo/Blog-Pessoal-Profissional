@@ -204,3 +204,7 @@ background-color: #fff;
 *::-webkit-scrollbar-thumb {
     background-color: #252c90;
 }
+
+.section-bg{
+    background-color: #eff5ff;
+}
